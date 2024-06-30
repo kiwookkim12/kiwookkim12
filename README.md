@@ -28,8 +28,7 @@
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align="center">
- 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" />
@@ -37,7 +36,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626style=flat&logo=jupyter&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+
 </div>
 
 <br>
