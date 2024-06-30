@@ -1,22 +1,22 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=93c47d&text=Wook's%20Dev%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
-
+<div align="center">
 <br>
 
 <p align="center">
-    👐 반갑습니다 <br>
-    “사소한 아이디어라도 실현하고 싶은 꿈이 있는” <br>
-    개발자 김기욱입니다! <br><br>
-    컴퓨터과학과를 전공 중이며, <br>
+
+    “사소한 아이디어라도 실현하고 싶은 꿈이 있는” 
+    개발자 김기욱입니다!
+    컴퓨터과학과를 전공 중이며,
     하나를 배우더라도 깊이 있게 배우려는 자세로 개발을 학습하고 있습니다.
 </p>
 
 <br>
 
-<p align="center">
-    <Strong>⚒️stack⚒️</Strong><br>
-</p>
+# ⚒️stack⚒️
+
+
 
 <p align="center" display="inline-block">
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white"> 
@@ -30,15 +30,18 @@
 </p>
 
 <br>
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkiwookkim12%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<br><br>
-<Strong>📧Email📧</Strong><br>wapple7025@gmail.com<br>
+
+	
+# 📧Email📧
+
+	wapple7025@gmail.com
 
 </p>
 
 <br>
-
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkiwookkim12%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<br>
 <div align="center">
     
 ![kiwookkim12's github stats](https://github-readme-stats.vercel.app/api?username=kiwookkim12&show_icons=true)
