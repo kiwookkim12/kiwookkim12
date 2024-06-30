@@ -36,8 +36,6 @@
 	<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626style=flat&logo=jupyter&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
-	<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626style=flat&logo=jupyter&logoColor=white" />
 </div>
 
 <br>
