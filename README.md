@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-    반갑습니다👐 <br>
+    👐 반갑습니다 <br>
     “사소한 아이디어라도 실현하고 싶은 꿈이 있는” <br>
     개발자 김기욱입니다! <br><br>
     컴퓨터과학과를 전공 중이며, <br>
@@ -33,7 +33,7 @@
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" />
-	<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
+	<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626style=flat&logo=jupyter&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626style=flat&logo=jupyter&logoColor=white" />
