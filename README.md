@@ -22,12 +22,15 @@
     <img src="https://img.shields.io/badge/JavaScript-007396?style=for-the-badge&logo=javaScript&logoColor=white"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+
 </p>
 
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align="center">
+	
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
