@@ -1,5 +1,5 @@
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=93c47d&text=Wook's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=93c47d&text=Wook's%20Developer%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
 
 <br>
