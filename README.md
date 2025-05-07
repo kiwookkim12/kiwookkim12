@@ -13,7 +13,7 @@
 
 <br>
 
-# ⚒️stack⚒️
+# ⚒️stack
 
 
 
@@ -31,7 +31,7 @@
 <br>
 
 	
-# 📧Email📧
+# 📧Email
 <p align="center">
 	wapple7025@gmail.com
 </p>
